@@ -49,7 +49,6 @@
 
     <h2>Information Collection and Use</h2>
     <p>For a better experience while using our Service, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.</p>
-
     <p>The Application does use third-party services that may collect information used to identify you.</p>
     <p>Link to the privacy policy of third-party service providers used by the Application:</p>
     <ul>
@@ -66,9 +65,10 @@
     <p>The Application may save your local game progress, settings, and high scores. If the Application utilizes Cloud Sync services, this data may be synced to a backend server (such as Firebase) to allow you to restore your progress across devices.</p>
 
     <h2>Cookies</h2>
-    <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.</p>
+    <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device&#39;s internal memory.</p>
     <p>This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services.</p>
-<h2>Security</h2>
+
+    <h2>Security</h2>
     <p>The Service Provider values your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and the Service Provider cannot guarantee its absolute security.</p>
 
     <h2>Children’s Privacy</h2>
@@ -78,7 +78,7 @@
     <p>The Service Provider may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. The Service Provider will notify you of any changes by posting the new Privacy Policy on this page.</p>
 
     <h2>Contact Us</h2>
-    <p>If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact the Service Provider at: <strong>[ENTER YOUR SUPPORT EMAIL ADDRESS HERE]</strong>.</p>
+    <p>If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact the Service Provider at: <strong>your-email@example.com</strong>.</p>
 </div>
 
 </body>
